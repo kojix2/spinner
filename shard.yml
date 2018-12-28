@@ -1,7 +1,8 @@
 name: spinner
-version: 0.1.1
+version: 0.2.0
 
 authors:
   - Aşkın Gedik <askn@bil.omu.edu.tr>
+  - Robert Müller <code@brauser.io>
 
 license: MIT
